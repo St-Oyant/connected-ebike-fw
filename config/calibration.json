@@ -1,0 +1,8 @@
+{
+  "product": "Urban E-Bike",
+  "firmware_version": "1.0.0",
+  "max_assist_level": 4,
+  "thermal_derating_start_c": 75,
+  "low_battery_limit_percent": 15,
+  "walk_assist_enabled": true
+}
